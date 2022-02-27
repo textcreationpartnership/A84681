@@ -1,0 +1,359 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine intelligence from Yorke. Concerning the meeting of that county, both for the militia and commission of aray, with severall passages on both sides, and their articles of agreement between both, for the present setling the peace in that county. Dated at Yorke September the last. Together with the taking of two ships at Newcastle by the Earle of Warwicke.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84681</idno>
+            <idno type="STC">Wing F1469</idno>
+            <idno type="STC">Thomason E119_27</idno>
+            <idno type="STC">ESTC R8073</idno>
+            <idno type="EEBO-CITATION">99873234</idno>
+            <idno type="PROQUEST">99873234</idno>
+            <idno type="VID">125697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84681)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125697)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine intelligence from Yorke. Concerning the meeting of that county, both for the militia and commission of aray, with severall passages on both sides, and their articles of agreement between both, for the present setling the peace in that county. Dated at Yorke September the last. Together with the taking of two ships at Newcastle by the Earle of Warwicke.</title>
+                  <author>Ford, Philip, 17th cent.</author>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Blunden,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter signed: "Philip Ford".</note>
+                  <note>Annotation on Thomason copy: "Octob: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term>Commissions of array --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>York (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125697:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 63 -->
+            <p>CERTAINE INTELLIGENCE FROM YORKE Concerning the Meeting of that
+County, both for the <hi>Militia</hi> and Commiſſion of <hi>Aray,</hi> with
+ſeverall paſſages on both ſides, and their Articles of agreement
+between both, for the preſent ſetling the peace in that County. <hi>Dated
+at</hi> YORKE <hi>September the laſt.</hi> Together with the taking of two
+Ships at <hi>Newcaſtle</hi> by the Earle of <hi>Warwicke.</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Blunden,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:125697:2"/>
+            <!-- PDF PAGE 64 -->
+            <head>Yorke the laſt of Septemb. 1642.</head>
+            <opener>
+               <salute>M. Tho. Thecher,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">K</seg>Ind ſir, yours I received, and give you many thanks for the
+news you made me partaker of this Poſt. Here incloſed I ſend you the
+particulars of your kuateis, for proviſion for receiving and ſhipping I put
+down nothing, al<g ref="char:EOLhyphen"/>low what you pleaſe, both to me and your ſelfe, for
+thoſe goods of that nature by us diſpoſed of. Here we have had a
+diſtracted Coun<g ref="char:EOLhyphen"/>tie, the Gentry banding together in parties one a<g ref="char:EOLhyphen"/>gainſt
+another, the Communalty on both ſides ge<g ref="char:EOLhyphen"/>nerally loath to obey one ſide or
+other. <hi>Pomfrait</hi>-Caſtle, and <hi>Knasborough</hi>-Caſtle was
+ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſed on by the Lord Generals command, the Earle <hi>Cumb.</hi> ſome few
+of every Regiment was got together for the Array, the Muſqutteers they made
+Dragoneers of, the Pike<g ref="char:EOLhyphen"/>men was ſent home againe. The Lord <hi>Fairefax</hi>
+kept himſelfe in <hi>Leeds</hi> with thoſe Gentry of his party, the
+communalty of the Town being wholly at his com<g ref="char:EOLhyphen"/>mand, and able to have oppoſed
+all the Forces that was raiſed againſt him; Sir <hi>Iohn Savill</hi>
+comming to <hi>Leeds</hi> to the reſt of the Gentry on his party, was
+be<g ref="char:EOLhyphen"/>trayed by interception of a Letter, and was ther in a <pb facs="tcp:125697:2"/>
+               <!-- PDF PAGE 64 -->Lane
+by two Troops of Horſe, who bid him yeeld as a Traytor, which he oppoſing
+and reſuſing whilſt breath was in him to yeed to that name, the Troops
+diſcharged upon his Company, being about thirty Horſe, and kild two of his
+ſervants, and tooke him and ſome others priſoners to <hi>Pomfrait</hi>
+Caſtle, but upon a treaty betwixt the gentry he was againe de<g ref="char:EOLhyphen"/>livered within
+a day or two, and a new treaty pro<g ref="char:EOLhyphen"/>pounded which was met yeſterday at
+<hi>Leeds,</hi> where both ſides have agreed to lay downe the <hi>Array</hi>
+and <hi>Militia,</hi> and to countenance neither, but joyntly to defend and
+preſerve the peace of the County, till a way be agreed on by both King and
+Parliament for ſetling the ſame in a legall way. The Articles I have ſent
+you, and the coppy of a Letter from Prince <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> to His Majeſty,
+with the relation of the Gentle<g ref="char:EOLhyphen"/>man that carried it to the King, concerning a
+great skirmiſh between Prince <hi>Robert</hi> with eleven Troops, and ſome
+Horſe of the King and Parliaments Forces neere <hi>Worceſter,</hi> which
+were wholly routed, as ap<g ref="char:EOLhyphen"/>peares by it, the newes concerning it with you being
+farre different; but we hope yours from <hi>London</hi> is a true relation, of
+which I pray write the truth by the firſt Poſt, and that you will continue
+your intelli<g ref="char:EOLhyphen"/>gence as occaſion ſerves. Thus with my beſt wiſhes for the
+peace of the Kingdome in generall, I commit you to God, and reſt,</p>
+            <closer>
+               <signed>Yours to command, <hi>Philip Ford.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>Juſt now at 9 of the clocke at night the Drums are beating
+up, it is reported that Sir <hi>Iohn Hotham</hi> hath ſome forces come out,
+and are neere this City, within 4. houres march. <hi>Vale,</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="part">
+            <pb facs="tcp:125697:3"/>
+            <!-- PDF PAGE 65 -->
+            <head>It is agreed that the Treaty con<g ref="char:EOLhyphen"/>cluded this preſent 29. of
+<hi>September,</hi> 1642. being <hi>Michaelmas</hi> Day.</head>
+            <p n="1">1. THat all Forces aſſembled together in any part of
+<hi>Yorkeſhire,</hi> or County or City of <hi>Yorke,</hi> ſhall be
+disbanded, all thoſe under the conduct of Captaine <hi>Hotham,</hi> now in
+<hi>Doncaſter,</hi> and all other Forces in any other part of the County
+under any other Commanders belonging to the Garriſon at <hi>Hull</hi> ſhall
+retire to <hi>Hull</hi> with all ſpeed poſſible, and the ſaid Captain
+<hi>Hotham</hi> ſhall beginne to march from <hi>Doncaſter</hi> towards
+<hi>Hull,</hi> upon Satur<g ref="char:EOLhyphen"/>day night.</p>
+            <p n="2">2. It is agreed that no hoſtile, or violent act ſhall
+hereafter be done by the Garriſon at <hi>Hull,</hi> either directly or
+indirectly by pretence of any aide or aſſi<g ref="char:EOLhyphen"/>ſtance whatſoever, upon the
+perſons of any men within the County of <hi>Yorke,</hi> or within the County
+or City of <hi>Yorke,</hi> upon their goods, either in the afore<g ref="char:EOLhyphen"/>ſaid, or in
+the County of <hi>Kingſtone</hi> upon <hi>Hull.</hi>
+            </p>
+            <p n="3">3. It is agreed that the Commiſſion of <hi>Array,</hi>
+and the Orders or Ordinance of Parliament for the <hi>Militia</hi> be wholly
+ſuſpended in this County, untill ſuch times as ſome courſe be agreed
+upon for the ordering of the <hi>Militia</hi> by the King and Parliament, and
+this without diſputing either the legality, or the illegallity of either, but
+as finding neither of them ſo neceſſary at this time as for the
+ſettling them on foot to involve this great County in blood.</p>
+            <pb facs="tcp:125697:3"/>
+            <!-- PDF PAGE 65 -->
+            <p n="4">4. It is agreed that no Command be impoſed up<g ref="char:EOLhyphen"/>on this
+County, but ſuch as are legall and preſiden<g ref="char:EOLhyphen"/>ted in good times.</p>
+            <p n="5">5. It is agreed that no armed Forces whatſoever ſhall
+be ſuffered to enter this County in a hoſtile manner, by vertue of any
+pretence or command whatſoever, and they which ſhall attempt to doe it, the
+whole County ſhall riſe againſt them with force as enemies againſt
+peace to be ſuppreſſed.</p>
+            <p n="6">6. It is agreed that if any carriages for houſehold,
+either of the King or Queenes, be to paſſe this Coun<g ref="char:EOLhyphen"/>ty, that to prevent
+all other armed Forces under pre<g ref="char:EOLhyphen"/>tence of ſuch a conduct to come amongſt
+us, we ſhall take order to ſee them quietly conducted by the Sheriffe of
+the County, with ſuch a convoy as he ſhall appoint and we like, and with no
+other, and if it ſhall happen the Queens Majeſty ſhall returne out of
+<hi>Holland</hi> through this County, we ſhall humbly beſeech Her Majeſty
+to forbeare the bringing with Her any multitude of armed Forces, but to believe
+that we ſhall waite upon Her Majeſty, with ſuch a honorable Convoy as
+ſhall fit our duty, and Her Honour.</p>
+            <p n="7">7. It is agreed that if any warlike proviſion be
+de<g ref="char:EOLhyphen"/>ſired, to be paſſed this Country for his Majeſty ſer<g ref="char:EOLhyphen"/>vice that we
+ſhall humbly petition His Majeſty, that he would be pleaſed to convoy the
+ſame ſome other way, being it may be an occaſion of interrupting our
+peace.</p>
+            <p n="8">8. It is agreed, that none ſhall be arreſted in this
+County as Delinquents to either party, but by a le<g ref="char:EOLhyphen"/>gall peaceable and quiet
+way, that is, by the legall Officers and their aſiſtants onely, and not by
+armed <pb facs="tcp:125697:4"/>
+               <!-- PDF PAGE 66 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb facs="tcp:125697:4"/>
+               <!-- PDF PAGE 66 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb facs="tcp:125697:5"/>
+               <!-- PDF PAGE 67 -->men
+and Souldiers, who may be an occaſion to bring fire amongſt us.</p>
+            <p n="9">9. It is agreed that a generall amity be made be<g ref="char:EOLhyphen"/>twixt all
+the Gentry and others of this County, of all former unkindneſſes, and
+differences that have been bread by theſe unhappy diſtractions, and that
+wee hereafter will be as one man to defend one another, according to the Law,
+againſt all others, leaving all offences to be puniſhed by the Law of the
+Land, and not by force and violence.</p>
+            <p n="10">10. it is agreed that whoſoever in this County, ſhall
+be made to appeare either to be the auhor, con<g ref="char:EOLhyphen"/>triver or aſſiſter, to the
+burning of Sir <hi>Edward Rodes</hi> his houſe, or pillaging any other mans
+houſe in this County, we ſhall all ſee them (if they be able) to make
+reparation, and however to be brought to Juſtice.</p>
+            <p n="11">11. It is agreed, that it is intended by disbanding of
+the Armies, that His Majeſty ſhall have all liberty for the removing of all
+ſuch Cannon and munition, as he hath in this County.</p>
+            <p n="12">12. It is agred, that all the Armes which do belong to
+any of the trained Bands of this County, which hath been taken from them
+ſince the 12. of this in<g ref="char:EOLhyphen"/>ſtant <hi>September</hi> by either party, ſhall
+be preſently reſtored, and that Captaine <hi>Hotham</hi> ſhall leave
+be<g ref="char:EOLhyphen"/>hind him when he returnes into <hi>Hull,</hi> all thoſe braſſe Peeces
+belonging to His Majeſty, which are now in <hi>Doncaſter,</hi> except
+ſuch as he himſelfe brought thi<g ref="char:EOLhyphen"/>ther himſelfe from <hi>Hull.</hi>
+            </p>
+            <p n="13">13. It is agreed, that no further Forces ſhall during
+this difference betwixt King and Parliament, be ei<g ref="char:EOLhyphen"/>ther raiſed in, or paid by
+this County, for this warre, <pb facs="tcp:125697:5"/>
+               <!-- PDF PAGE 67 -->other
+then ſuch as are all ready levied, and really raiſed, and all ſuch alſo
+preſently to goe out of this County, without raſing any more.</p>
+            <p n="14">14. It is agreed, that a humble remonſtrance, and
+Declaration of theſe our Reſolutions we preſently ſend, both to the
+King and Parliament accompani<g ref="char:EOLhyphen"/>ed with a humble petition from us all, that
+accor<g ref="char:EOLhyphen"/>ding as we all have unanimouſly agreed for our par<g ref="char:EOLhyphen"/>ticular peace, ſo
+they would be pleaſed ſo far to commiſerate this diſtracted Kingdome,
+to doe the ſame for generall peace of the whole.</p>
+            <closer>
+               <signed>Signed by the Comitty for the Treaty. 
+<list>
+                     <item>
+                        <hi>Heny Bellaſes.</hi>
+                     </item>
+                     <item>Sr. <hi>William Savill.</hi>
+                     </item>
+                     <item>Sr. <hi>Edvard Osburne.</hi>
+                     </item>
+                     <item>Sr. <hi>John Ramſden.</hi>
+                     </item>
+                     <item>
+                        <hi>John Hopton.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Nevill.</hi>
+                     </item>
+                     <item>Sr. <hi>Thomas Fairfax.</hi>
+                     </item>
+                     <item>Sr. <hi>Thomas Malmerer.</hi>
+                     </item>
+                     <item>Sr. <hi>William Liſter.</hi>
+                     </item>
+                     <item>
+                        <hi>William White.</hi>
+                     </item>
+                     <item>
+                        <hi>Thoma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+Stockdaile.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <opener>
+               <dateline>From <hi>Newcaſtle.</hi>
+               </dateline> 
+               <salute>Loving Coſin,</salute>
+            </opener>
+            <p>BY the laſt Poſt I heard not from you, I truſt in God that
+you and yours are well; having time I cannot omit writing to you. Our Town
+begins to be ſore infected with the Plague, it is diſperſed in divers
+parts thereof, and (as I heare) increaſeth; the Lord in mercy looke upon us,
+and ſtay it, if it be his will, and prevent and keepe from us that other
+judgement of the fword which hangs over our heads and threat<g ref="char:EOLhyphen"/>neth us ſo
+fore.</p>
+            <pb facs="tcp:125697:6"/>
+            <!-- PDF PAGE 68 -->
+            <p>There came upon Monday laſt before our Haven two great Ships,
+the Captaines and other Officers came to this Towne for victuals, and other
+proviſion for them, ſaying they came for the King, the Cap<g ref="char:EOLhyphen"/>taines having
+done their randiſvouze here, returned to their ſhips, the Beefe, Beere,
+Bread, and other pro<g ref="char:EOLhyphen"/>viſions were to follow, the which was accordingly
+performed and ſent from hence the next day; but before the ſaid proviſion
+was all laid aboard, ſix of the ſhips ſet out by the Parliament came and
+ſur<g ref="char:EOLhyphen"/>rounded them, and ſent to the Captaines to know whether they would
+yeeld or not, which they ac<g ref="char:EOLhyphen"/>cordingly did without any ſhot at all, ſo that
+they, ſailed from thence together the ſame day like loving friends, and
+moſt of the Proviſions came to this Town againe. By which you may ſee how
+things go. It is reported here that there will be eight or nine thouſand men
+ſent from your City to take this town, but I truſt that report is not
+true.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
